@@ -1,0 +1,11 @@
+{
+  "manifest_version": 3,
+  "name": "Custom Dice Roller",
+  "version": "1.0",
+  "description": "Roll a custom dice with a specified number of sides.",
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": "icon.png"
+  },
+  "permissions": []
+}
